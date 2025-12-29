@@ -1,5 +1,8 @@
 ### Aljamil Report
 
+![Version](https://img.shields.io/badge/version-29.12.2025-blue)
+
+
 Aljamil Report
 
 ### Installation
